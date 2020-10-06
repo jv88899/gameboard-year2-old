@@ -1,8 +1,9 @@
 import React from "react";
+import TransactionList from '../TransactionList'
 
 const Original = ({ companyName }) => (
   <>
-    {/* TransactionList goes here */}
+    <TransactionList activeStep={`001`} />
     <div className="board-wrapper">
       {/* customer section */}
       <div className="customer-wrapper">
