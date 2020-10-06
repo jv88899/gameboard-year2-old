@@ -226,7 +226,7 @@ const Original = ({ companyName }) => (
           <ul className="investing-inner-list">
             <li>
               <span className="item-name red">Carslon Properties</span>
-              <span classNaem="item-total">5</span>
+              <span className="item-total">5</span>
             </li>
           </ul>
         </div>
