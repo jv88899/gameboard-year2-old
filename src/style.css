@@ -75,17 +75,17 @@ h5 {
   background-color: rgb(253, 251, 221);
   padding: 3px;
   padding-top: 85px;
-  width: 17%;
+  width: 20%;
 }
 
 .transaction-list {
-  font-size: 12px;
+  font-size: 11px;
   height: 95%;
   margin: 0 auto;
-  overflow-x: hideen;
+  overflow-x: hidden;
 }
 
-.transaction-item-headers {
+.transaction-items-headers {
   display: flex;
   text-align: center;
 }
