@@ -16,7 +16,7 @@ const Original = ({ companyName }) => (
             <li>Employers</li>
             <li>Government</li>
           </ul>
-          <span className="item-total">12</span>
+          <span className="item-total">40</span>
         </div>
         <div className="customer-wrapper-wells-fargo-bank">
           <h5 className="green">
@@ -26,7 +26,7 @@ const Original = ({ companyName }) => (
         </div>
         <div className="customer-wrapper-us-bank">
           <h5 className="green">Us Bank</h5>
-          <span className="item-total">0</span>
+          <span className="item-total">4</span>
         </div>
       </div>
       {/* income statement and balance sheet section */}
@@ -64,27 +64,27 @@ const Original = ({ companyName }) => (
             <ul>
               <li>
                 <span className="item-name">Premium Revenue</span>
-                <span className="item-total">20</span>
+                <span className="item-total">0</span>
               </li>
               <li>
                 <span className="item-name">Pharmacy Expense</span>
-                <span className="item-total">2</span>
+                <span className="item-total">0</span>
               </li>
               <li>
                 <span className="item-name">Medical Expense</span>
-                <span className="item-total">13</span>
+                <span className="item-total">0</span>
               </li>
               <li>
                 <span className="item-name">Administrative Expense</span>
-                <span className="item-total">2</span>
+                <span className="item-total">0</span>
               </li>
               <li>
                 <span className="item-name">Broker Expense</span>
-                <span className="item-total">1</span>
+                <span className="item-total">0</span>
               </li>
               <li>
                 <span className="item-name">Premium Tax Expense</span>
-                <span className="item-total">1</span>
+                <span className="item-total">0</span>
               </li>
               <li>
                 <span className="item-name">Depreciation Expense</span>
@@ -92,18 +92,18 @@ const Original = ({ companyName }) => (
               </li>
               <li>
                 <span className="item-name">Investment Income</span>
-                <span className="item-total">4</span>
+                <span className="item-total">0</span>
               </li>
               <li>
                 <span className="item-name red">
                   Federal Income Tax Expense
                 </span>
-                <span className="item-total">1</span>
+                <span className="item-total">0</span>
               </li>
             </ul>
             <div className="totals-wrapper">
               <span className="item-total expense bg-red white">0</span>
-              <span className="item-total revenue bg-black white">4</span>
+              <span className="item-total revenue bg-black white">0</span>
             </div>
           </div>
 
@@ -198,15 +198,15 @@ const Original = ({ companyName }) => (
           <ul className="operating-inner-list">
             <li>
               <span className="item-name red">Pharmacies</span>
-              <span className="item-total">2</span>
+              <span className="item-total">0</span>
             </li>
             <li>
               <span className="item-name red">Medical Providers</span>
-              <span className="item-total">10</span>
+              <span className="item-total">0</span>
             </li>
             <li>
               <span className="item-name red">Employees</span>
-              <span className="item-total">1</span>
+              <span className="item-total">0</span>
             </li>
             <li>
               <span className="item-name red">Brokers</span>
@@ -218,7 +218,7 @@ const Original = ({ companyName }) => (
             </li>
             <li>
               <span className="item-name red">Taxing Authority</span>
-              <span className="item-total">2</span>
+              <span className="item-total">0</span>
             </li>
           </ul>
         </div>
@@ -227,7 +227,7 @@ const Original = ({ companyName }) => (
           <ul className="investing-inner-list">
             <li>
               <span className="item-name red">Carslon Properties</span>
-              <span className="item-total">5</span>
+              <span className="item-total">0</span>
             </li>
           </ul>
         </div>
