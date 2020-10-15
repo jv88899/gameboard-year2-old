@@ -1,5 +1,5 @@
 import React from "react";
-import TransactionList from '../TransactionList'
+import TransactionList from "../TransactionList";
 
 const Original = ({ companyName }) => (
   <>
@@ -67,27 +67,27 @@ const Original = ({ companyName }) => (
                 <span className="item-total">0</span>
               </li>
               <li>
-                <span className="item-name">Pharmacy Expense</span>
+                <span className="item-name red">Pharmacy Expense</span>
                 <span className="item-total">0</span>
               </li>
               <li>
-                <span className="item-name">Medical Expense</span>
+                <span className="item-name red">Medical Expense</span>
                 <span className="item-total">0</span>
               </li>
               <li>
-                <span className="item-name">Administrative Expense</span>
+                <span className="item-name red">Administrative Expense</span>
                 <span className="item-total">0</span>
               </li>
               <li>
-                <span className="item-name">Broker Expense</span>
+                <span className="item-name red">Broker Expense</span>
                 <span className="item-total">0</span>
               </li>
               <li>
-                <span className="item-name">Premium Tax Expense</span>
+                <span className="item-name red">Premium Tax Expense</span>
                 <span className="item-total">0</span>
               </li>
               <li>
-                <span className="item-name">Depreciation Expense</span>
+                <span className="item-name red">Depreciation Expense</span>
                 <span className="item-total">0</span>
               </li>
               <li>
